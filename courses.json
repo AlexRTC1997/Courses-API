@@ -1,0 +1,26 @@
+[
+  {
+    "code": "1704148",
+    "name": "Artificial Intelligence",
+    "credits": 3,
+    "instructor": "Yasiel Perez Vera"
+  },
+  {
+    "code": "1704150",
+    "name": "Distributed Systems",
+    "credits": 4,
+    "instructor": "Jesus Silva Fernandez"
+  },
+  {
+    "code": "1704149",
+    "name": "Requirements Engineering",
+    "credits": 4,
+    "instructor": "Willian Bornas Rios"
+  },
+  {
+    "code": "1704151",
+    "name": "Software Testing",
+    "credits": 3,
+    "instructor": "Maribel Molina Barriga"
+  }
+]
